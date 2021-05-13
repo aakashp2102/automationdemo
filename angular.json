@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "automationdemo": {
+    kitchenstory{
       "projectType": "application",
       "schematics": {},
       "root": "",
